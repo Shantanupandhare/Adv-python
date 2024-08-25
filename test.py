@@ -7,7 +7,7 @@ def simple_interst(p,n,r):
     return I, A
 
 """
-__main__ will refer to current file
+__main__ will refer to current file --> new change for git
 """
 
 if __name__ == "__main__":
